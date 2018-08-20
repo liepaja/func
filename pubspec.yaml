@@ -6,4 +6,4 @@ description: >
 author: Dart Dev Compiler team <dev-compiler@dartlang.org>
 homepage: https://github.com/dart-lang/func
 environment:
-  sdk: ">=1.9.0 <2.0.0"
+  sdk: ">=1.9.0 <3.0.0"
